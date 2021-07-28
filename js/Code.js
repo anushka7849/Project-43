@@ -1,0 +1,25 @@
+const accessCode1 = "VARIABLE";
+const accessCode2 = "DATABASE";
+const accessCode3 = "FUNCTION";
+
+function clues() {
+    
+    fill("yellow")
+    textSize(15)
+    text("R E V B A I L A", 100,50)
+    fill("orange")
+    text("Hint: Always changing, not constant !!", 100,70)
+// add code for displaying rest of the names and the hints.
+    fill("orange");
+    textSize(15);
+    text("A T E D A S B A",700,150);
+    fill("yellow");
+    text("Hint: Stores all information!!",700,170);
+
+    fill("yellow");
+    textSize(15);
+    text("C U T N I F O N",100,300);
+    fill("orange");
+    text("Hint: Performs a particular task!!",100,320);
+
+}
